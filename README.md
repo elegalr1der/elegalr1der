@@ -3,8 +3,8 @@
 **elegalr1der/elegalr1der** GitHub profile.
 
 
-<h1 align="center">Hi Im elegalr1der</h1>
-<h3 align="center">Reverse engineer, coding, Information Security</h3>
+<h1 align="left">Hi Im elegalr1der</h1>
+<h3 align="left">Reverse engineer, coding, Information Security</h3>
 
 - 👨‍💻 My telagram [https://t.me/elegalr1der](https://t.me/elegalr1der)
 
