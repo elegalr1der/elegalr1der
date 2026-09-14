@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-**elegalr1der/elegalr1der** GitHub profile.
-
 
 <h1 align="left">Hi Im elegalr1der</h1>
 <h3 align="left">Reverse engineer, coding, Information Security</h3>
